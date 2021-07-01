@@ -19,7 +19,7 @@ tags:
 schemes:
 - https
 paths:
-  /inventory:
+  /inventory/getitems:
     get:
       tags:
       - developers
