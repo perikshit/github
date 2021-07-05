@@ -17,7 +17,7 @@
   } ],
   "tags" : [ {
     "name" : "admins",
-    "description" : "Secured Admin-only calls"
+    "description" : "Secured Admin-only calls to test"
   }, {
     "name" : "developers",
     "description" : "Operations available to regular developers"
